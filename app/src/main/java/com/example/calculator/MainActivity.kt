@@ -33,4 +33,9 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
+// TODO: Make Calculation and Result numbers in text value not overlap on new column when numbers
+//  exceed character limit on one line
+// TODO: Chain multiple operations to calculate a single result
+// TODO: Fix state.number2 so second number can display and apply decimal point to calculations
+//  correctly
 
