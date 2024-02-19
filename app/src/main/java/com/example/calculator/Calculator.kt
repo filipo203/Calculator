@@ -45,6 +45,7 @@ fun Calculator(
                 fontSize = 60.sp,
                 color = Color.White,
                 maxLines = 2
+                // TODO: Make Calculation and Result numbers in text value not overlap on new column when numbers exceed character limit on one line
             )
             Row(
                 modifier = Modifier.fillMaxWidth(),
